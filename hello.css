@@ -1,0 +1,33 @@
+body{
+    background-color: #141414;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.profile{
+    display: block;
+    background-color: #1f1f1f;
+    color: #ffffff;
+    text-align: center;
+    width: 25%;
+    height: 730px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.profile a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.social{
+    background-color: #333333;
+    text-align: center;
+    margin: 20px auto 0px;
+    width: 70%;
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    line-height: 40px;
+}
